@@ -1,0 +1,12 @@
+{
+  "name": "tutorial_increment_app",
+  "displayName": "tutorial_increment_app",
+  "expo": {
+    "name": "tutorial_increment_app",
+    "slug": "tutorial_increment_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
