@@ -10,8 +10,8 @@
   Extra points: log a message into the console only once and when the app starts.<br>
   <br>Follow the UI below:
   <br>
-  <a href="https://i.ibb.co/Pzg6j2h/iPhone.png">
-    <img alt="iOS" width=300 height=600 src="https://i.ibb.co/Pzg6j2h/iPhone.png" />
+  <a href="https://i.ibb.co/YX0W5YD/i-Phone-1.png">
+    <img alt="iOS" width=300 height=600 src="https://i.ibb.co/YX0W5YD/i-Phone-1.png" />
   </a>
   <a href="https://i.ibb.co/12WNFfn/Android.png">
     <img alt="Android" width=300 height=600 src="https://i.ibb.co/12WNFfn/Android.png" />
